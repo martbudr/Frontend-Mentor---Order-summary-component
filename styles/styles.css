@@ -7,7 +7,7 @@
         width: 80%;
         height: auto;
     }
-    main{
+    article{
         padding: 15px;
     }
 }
@@ -37,7 +37,7 @@ img{
 main{
     background-color: white;
     text-align: center;
-    height: 82%;
+    height: auto;
     width: 400px;
     border-radius: 15px;
     position: absolute;
@@ -104,6 +104,9 @@ a{
     background-color: hsl(245, 75%, 52%);
     color: hsl(225, 100%, 98%);
     border-radius: 10px;
+}
+.cancel{
+    padding-bottom: 0;
 }
 
 footer { 
