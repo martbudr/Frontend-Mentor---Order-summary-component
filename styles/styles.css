@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit&family=Red+Hat+Display:wght@500;700;900&display=swap');
-@media (max-width: 375px){
+@media (max-width: 800px){
     body{
         background-image: url('/images/pattern-background-mobile.svg');
     }
@@ -10,7 +10,7 @@
         padding: 15px;
     }
 }
-@media (min-width: 376px){
+@media (min-width: 801px){
     body{
         background-image: url('/images/pattern-background-desktop.svg');
     }
